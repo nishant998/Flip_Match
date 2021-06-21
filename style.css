@@ -1,0 +1,17 @@
+* {
+  background-color: rgb(255, 255, 255);
+  color: rgb(54, 22, 129);
+}
+.score_res {
+  display: block;
+  width: 100px;
+  margin: auto;
+}
+.grid {
+  display: flex;
+  flex-wrap: wrap;
+  height: 300px;
+  width: 400px;
+  margin: auto;
+  margin-top: 10rem;
+}
